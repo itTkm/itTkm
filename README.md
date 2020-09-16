@@ -1,3 +1,8 @@
+![GitHub profile views](https://komarev.com/ghpvc/?username=itTkm&label=GitHub+profile+views)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/itTkm/posts.svg)](http://qiita.com/itTkm)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/itTkm/contributions.svg)](http://qiita.com/itTkm)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/itTkm/followers.svg)](http://qiita.com/itTkm)
+
 ### Hi there 👋
 
 <!--
@@ -15,11 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub user overview](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub repos per Language (top 5)](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![GitHub most Commit Language](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://komarev.com/ghpvc/?username=itTkm&style=flat)
+[![GitHub stats](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
