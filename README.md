@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub user overview](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+I like dark mode. 
+So this page is optimized for [dark mode on GitHub](https://github.com/settings/appearance).
 
-[![GitHub repos per Language (top 5)](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![GitHub most Commit Language](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub user overview](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub stats](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub repos per Language (top 5)](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  [![GitHub most Commit Language](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub stats](https://raw.githubusercontent.com/itTkm/itTkm/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
